@@ -1,0 +1,81 @@
+/*
+Custom Discord theme-dark
+P0ison_Green
+Designed by C3RO
+*/
+
+.guilds-wrapper {
+  background: #080808;
+}
+
+.guild-inner /*Guild server panel*/{
+  background-color: #00B121 !important;
+  opacity: 0.8;
+}
+
+.guilds-wrapper .guilds .friends-icon {
+  background-image: url('https://i.imgur.com/A8nXXfP.png');
+  background-color: #00B121 !important;
+  background-size: 100%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+
+}
+.flexChild-1KGW5q /*Server Name Wrapper*/{
+  background-color: #080808;
+  border-bottom: 2px solid #00b121;
+  opacity: 0.8;
+}
+
+.container-iksrDt /*User settings wrapper*/{
+  background-color: #080808;
+  border-top: 2px solid #00B121;
+  opacity: 0.8;
+
+}
+
+.container-3lnMWU /* Voice control wrapper*/{
+  background-color: #080808;
+  border-top: 2px solid #00B121;
+  opacity: 0.8
+
+}
+
+.scroller-fzNley /*Server Channels wrapper*/{
+  background-color: #080808;
+  opacity: 0.8;
+}
+
+.contentSelectedText-3j5CXt{
+  background-color: green;
+}
+
+.channel-members{
+    background-color: #080808 !important;
+}
+
+ .title-wrap-dark {
+  background-color: #080808;
+  opacity: 0.8;
+}
+
+.theme-dark .inner-3if5cm {
+    background-color: #080808;
+    border: 2px solid #00B121;
+}
+
+.messages {
+  background-color: #080808;
+  opacity: 0.8;
+  border-left: 2px solid #00B121 ;
+}
+
+
+.flex-spacer {
+  background-color: #080808;
+
+}
+
+.welcome-message {
+  background-color: green !important;
+}
