@@ -25,6 +25,10 @@ Designed by C3RO
     
 }
 
+.channel-name {
+	color: #00B121 !important;
+}
+
 
 .header-1tSljs /*Server Name Wrapper*/{
  	background-color: #080808;
@@ -157,4 +161,6 @@ Designed by C3RO
 .sidebar-region-scroller {
   border-right: 2px solid #00B121;   
 }
+
+
 
