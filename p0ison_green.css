@@ -5,6 +5,8 @@ Designed by C3RO
 */
 
 
+
+
 .guilds-wrapper {
     background: #080808;
       
@@ -26,7 +28,7 @@ Designed by C3RO
 }
 
 .channel-name {
-	color: #00B121 !important;
+ color: #00B121 !important;   
 }
 
 
@@ -151,6 +153,30 @@ Designed by C3RO
  
 }
 
+/*user popup styles*/
+
+.headerNormal-1cioxU{
+   background: #212121 !important; 
+   border-bottom: 2px solid #00B121;
+    
+}
+
+.avatarNormal-3luwna{
+ border-color: #00B121;   
+}
+
+.body-3rkFrF{
+    background-color: #171717;
+    border-bottom:  2px solid #00B121;
+}
+
+.footer-2J5zqP{
+ background-color: #080808 ;   
+}
+
+/*Popout header*/
+
+
 /*Settings styles*/
 
 .inputDefault-Y_U37D /* MY ACCOUNT SETTINGS INPUTS*/{
@@ -161,6 +187,7 @@ Designed by C3RO
 .sidebar-region-scroller {
   border-right: 2px solid #00B121;   
 }
+
 
 
 
