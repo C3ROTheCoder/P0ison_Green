@@ -4,6 +4,7 @@ P0ison_Green
 Designed by C3RO
 */
 
+
 .guilds-wrapper {
     background: #080808;
       
@@ -153,4 +154,7 @@ Designed by C3RO
   border-radius: 50px;
 }
 
+.sidebar-region-scroller {
+  border-right: 2px solid #00B121;   
+}
 
